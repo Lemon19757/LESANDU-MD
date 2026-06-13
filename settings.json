@@ -1,0 +1,26 @@
+{
+  "mode": "public",
+  "antiBad": true,
+  "antiLink": "false",
+  "autoReact": false,
+  "welcomeGoodbye": true,
+  "antiDelete": "groups",
+  "badWords": [
+    "හුත්තා",
+    "පකයා",
+    "හුත්",
+    "පක",
+    "බිජ්ජ",
+    "පුක",
+    "පකා",
+    "වේසයා",
+    "වේස",
+    "හුකනවා",
+    "හුකපන්",
+    "බිජු",
+    "හුත්ත",
+    "fuck",
+    "ass",
+    "hutta"
+  ]
+}
